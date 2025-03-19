@@ -1,0 +1,16 @@
+[19-Mar-2025 22:55:15 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php on line 65
+[19-Mar-2025 22:55:17 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php on line 65
+[19-Mar-2025 22:55:20 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php on line 65
+[19-Mar-2025 22:55:27 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/u435275044/domains/manaraecoshop.com/public_html/Screen-Mix/pages/upload.php on line 65
